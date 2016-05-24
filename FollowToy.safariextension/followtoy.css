@@ -1,0 +1,45 @@
+div#followToyReport {
+	display: block;
+	overflow: auto !important;
+	clear: both !important;
+	background: #f6f4f5 !important;
+	max-height: 300px !important;
+	width: 90% !important;
+	opacity: 0.9 !important;
+	border: 1px solid #683D91 !important;
+	border-radius: 5px !important;
+	margin: 0 auto 50px auto !important;
+	padding: 10px !important;
+}
+
+div#followToyReport li {
+	font-size: 1.3em !important;
+	padding: 5px !important;
+	color: #555 !important;
+	margin: 3px !important;
+}
+
+a.happyLink {
+	display: inline-block !important;
+	color: #593150 !important;
+	background: #CEDFD9 !important;
+	padding: 3px 8px !important;
+	margin: 0px 5px 0px 5px !important;
+	font-weight: bold !important;
+}
+
+a.sadLink {
+	display: inline-block !important;
+	color: #593150 !important;
+	background: #e6e4e5 !important;
+	padding: 3px 8px !important;
+	margin: 0px 5px 0px 5px !important;
+	font-weight: bold !important;
+}
+
+.followToyButton {
+	cursor: pointer !important;
+	font-size: 1.5em !important;
+	text-align: right !important;
+	float: right;
+}
