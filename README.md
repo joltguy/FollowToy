@@ -1,3 +1,5 @@
+**⚠️ This project is no longer being maintained.**
+
 # FollowToy
 FollowToy is a simple [Safari](http://www.apple.com/safari/) browser extension that lets you see who is (and isn't) following you back on Instagram. Once installed you will see a new "FollowToy" link on your profile page when you are signed in. See screenshot below:
 ![Screenshot](screenshot.png "Profile screenshot")
